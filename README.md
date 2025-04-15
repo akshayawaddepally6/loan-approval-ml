@@ -79,11 +79,6 @@ loan-approval-ml/ │ ├── data/ # 📊 Raw datasets used for training/test
 - Kaggle Loan Dataset:  
   [Loan Eligibility Prediction using Machine Learning](https://www.kaggle.com/code/johnpaulchikwe/loan-eligibility-prediction-using-machine-learning)
 
----
 
-## 📞 Contact
-
-**Akshaya Waddepally**  
-MS in Data Science, Pace University  
 
 
