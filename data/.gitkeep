@@ -1,0 +1,13 @@
+loan-approval-ml/                 
+│
+├── data/                         
+│   ├── train.csv
+│   └── test.csv
+│
+├── notebook/                     
+│   └── PDSfinaltrial.ipynb
+│
+├── presentation/                  
+│   └── DATAEDAphase2pptfinalpresented.pdf
+│
+├── README.md                     
