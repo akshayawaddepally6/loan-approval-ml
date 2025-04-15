@@ -17,7 +17,6 @@ Traditional loan approval processes are often manual, slow, and inconsistent—l
 
 - **Project Title:** Data-driven Loan Approval: A Machine Learning Approach  
 - **Course:** Practical Data Science  
-- **Student:** Akshaya Waddepally  
 - **Model Used:** Logistic Regression  
 - **Accuracy:** 79.8%  
 - **Primary Metric Focus:** High Recall (99%) – minimizes false rejections
